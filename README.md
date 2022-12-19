@@ -1,5 +1,5 @@
-###### -Using HTML , CSS & JavaScript.
-###### -Includes parallax scrolling; smooth scrolling in each section.
+######### -Using HTML , CSS & JavaScript.
+######## -Includes parallax scrolling; smooth scrolling in each section.
 ###### -Project with animations when scrolling.
 ###### -Smooth scrolling in each section.
 ###### -Responsive to all screen sizes.
